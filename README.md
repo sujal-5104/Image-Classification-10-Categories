@@ -44,13 +44,20 @@ It uses Convolutional Neural Networks (CNN) and transfer learning with MobileNet
 - Streamlit
 - Jupyter Notebook
 
-## Models
+## Model Performance Comparison
 
-- Custom Convolutional Neural Network (CNN)
-- MobileNetV2 with transfer learning
+Two deep learning approaches were developed and evaluated:
 
-The selected model is saved as `best_image_classification_model.keras`.
+| Metric | Custom CNN | MobileNetV2 |
+|---|---:|---:|
+| Accuracy | 56.84% | 98.75% |
+| Precision | 60.03% | 98.79% |
+| Recall | 56.73% | 98.73% |
+| F1-Score | 56.08% | 98.75% |
 
+MobileNetV2 achieved the best validation performance and was selected for the Streamlit application.
+
+The selected trained model is saved as `best_image_classification_model.keras`.
 ## Streamlit Application
 
 The application allows users to:
