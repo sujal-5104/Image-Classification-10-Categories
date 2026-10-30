@@ -1,0 +1,30 @@
+
+{
+    "class_names": [
+        "n01440764",
+        "n02102040",
+        "n02979186",
+        "n03000684",
+        "n03028079",
+        "n03394916",
+        "n03417042",
+        "n03425413",
+        "n03445777",
+        "n03888257"
+    ],
+    "class_mapping": {
+        "n01440764": "Tench",
+        "n02102040": "Springer",
+        "n02979186": "Cassette Player",
+        "n03000684": "Chainsaw",
+        "n03028079": "Church",
+        "n03394916": "French Horn",
+        "n03417042": "Garbage Truck",
+        "n03425413": "Gas Pump",
+        "n03445777": "Golf Ball",
+        "n03888257": "Parachute"
+    },
+    "image_height": 160,
+    "image_width": 160,
+    "selected_model": "MobileNetV2"
+}

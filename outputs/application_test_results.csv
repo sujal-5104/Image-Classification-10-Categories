@@ -1,0 +1,11 @@
+Actual Category,Predicted Category,Confidence (%),Correct
+Tench,Tench,100.0,True
+Springer,Springer,100.0,True
+Cassette Player,Cassette Player,99.95,True
+Chainsaw,Chainsaw,45.78,True
+Church,Church,99.96,True
+French Horn,French Horn,100.0,True
+Garbage Truck,Garbage Truck,99.99,True
+Gas Pump,Gas Pump,100.0,True
+Golf Ball,Golf Ball,99.25,True
+Parachute,Parachute,100.0,True
